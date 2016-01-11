@@ -1,0 +1,9 @@
+D:\MyGit\ReadOnlyCollectionIn.Net4.5\ReadOnlyCollectionInNet4.5\ReadOnlyCollectionInNet4.5\bin\Debug\ReadOnlyCollectionInNet4.5.exe.config
+D:\MyGit\ReadOnlyCollectionIn.Net4.5\ReadOnlyCollectionInNet4.5\ReadOnlyCollectionInNet4.5\bin\Debug\ReadOnlyCollectionInNet4.5.exe
+D:\MyGit\ReadOnlyCollectionIn.Net4.5\ReadOnlyCollectionInNet4.5\ReadOnlyCollectionInNet4.5\bin\Debug\ReadOnlyCollectionInNet4.5.pdb
+D:\MyGit\ReadOnlyCollectionIn.Net4.5\ReadOnlyCollectionInNet4.5\ReadOnlyCollectionInNet4.5\obj\Debug\ReadOnlyCollectionInNet4.5.csprojResolveAssemblyReference.cache
+D:\MyGit\ReadOnlyCollectionIn.Net4.5\ReadOnlyCollectionInNet4.5\ReadOnlyCollectionInNet4.5\obj\Debug\ReadOnlyCollectionInNet4.5.exe
+D:\MyGit\ReadOnlyCollectionIn.Net4.5\ReadOnlyCollectionInNet4.5\ReadOnlyCollectionInNet4.5\obj\Debug\ReadOnlyCollectionInNet4.5.pdb
+D:\MyGit\ReadOnlyCollectionIn.Net4.5\ReadOnlyCollectionInNet4._5\ReadOnlyCollectionInNet4.5\bin\Debug\ReadOnlyCollectionInNet4.5.exe.config
+D:\MyGit\ReadOnlyCollectionIn.Net4.5\ReadOnlyCollectionInNet4._5\ReadOnlyCollectionInNet4.5\obj\Debug\ReadOnlyCollectionInNet4.5.exe
+D:\MyGit\ReadOnlyCollectionIn.Net4.5\ReadOnlyCollectionInNet4._5\ReadOnlyCollectionInNet4.5\obj\Debug\ReadOnlyCollectionInNet4.5.pdb
